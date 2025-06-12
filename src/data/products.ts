@@ -129,7 +129,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=800',
     images: [
       'https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=800',
-      'https://www.facebook.com/share/193eyVY513/'
+      'https://www.facebook.com/share/18pB7MqpRh/'
     ],
     description: 'Complete modular kitchen cabinet system with soft-close doors and ample storage space.',
     features: ['Soft-close doors', 'Adjustable shelves', 'Water-resistant finish', 'Modern handles'],

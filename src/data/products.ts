@@ -129,7 +129,7 @@ export const products: Product[] = [
     image: 'https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=800',
     images: [
       'https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=800',
-      'https://www.facebook.com/share/18pB7MqpRh/'
+      'https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQF6a92DviS8Eg%2Farticle-cover_image-shrink_600_2000%2Farticle-cover_image-shrink_600_2000%2F0%2F1710399026067%3Fe%3D2147483647%26v%3Dbeta%26t%3DSds7N_nVobRqF0iYe9Fw723t4I_tYQ2C2vJQF-73pF8&tbnid=UBV3ZnuD_p2jbM&vet=1&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fbuilding-blocks-digital-world-introduction-data-kalana-heshan-rw7cc&docid=TLAPf2IcGys7-M&w=1024&h=500&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=4f082d8779e65d55'
     ],
     description: 'Complete modular kitchen cabinet system with soft-close doors and ample storage space.',
     features: ['Soft-close doors', 'Adjustable shelves', 'Water-resistant finish', 'Modern handles'],
